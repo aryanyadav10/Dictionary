@@ -4,4 +4,4 @@ This is a dictionary website which takes words as input and provides meaning of 
 
 This project is created with help of HTML , BootStrap and Javascript. It uses Dictionary API for api calls.
 
-Webiste Link :  
+Webiste Link :  https://aryanyadav10.github.io/Dictionary/
